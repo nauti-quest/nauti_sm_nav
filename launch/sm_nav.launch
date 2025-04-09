@@ -1,0 +1,10 @@
+<launch>
+  <arg name="follow_yaw_pitch_ctr" default="true" />
+  
+  <node pkg="nauti_sm_nav" type="main.py" output="screen" name="nauti_sm_nav">
+       <param name="follow_yaw_pitch_ctr"   value="$(arg follow_yaw_pitch_ctr)" />
+       <rosparam command="load" file="$(find nauti_controls)/data/bbox_yaw_pitch_ctr_pid_params.yaml" />
+  </node>
+  
+
+</launch>
