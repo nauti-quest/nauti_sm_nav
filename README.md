@@ -1,4 +1,4 @@
-# Nauti State Machine
+# NautiQuest State Machine
 
 A ROS package that implements autonomous navigation using state machines and YOLO object detection. The system switches between lawn mowing patterns and bounding box following based on object detection.
 
