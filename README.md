@@ -19,7 +19,7 @@ source devel/setup.bash
 
 - ROS Noetic
 - [nauti_yolo](https://github.com/nauti-quest/nauti_yolo)
-- [nauti_gazebo](https://github.com/nauti-quest/nauti_gazebo)
+- [nauti_gazebo](https://github.com/nauti-quest/nauti_gazebo) (Needed if running this on simulations)
 - Python 3.8+
 
 ## How to Run
