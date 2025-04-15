@@ -18,8 +18,8 @@ source devel/setup.bash
 ## Dependencies
 
 - ROS Noetic
-- yolo-ros from NautiQuest
-- nauti-gazebo repository for running simulations
+- [nauti_yolo](https://github.com/nauti-quest/nauti_yolo)
+- [nauti_gazebo](https://github.com/nauti-quest/nauti_gazebo)
 - Python 3.8+
 
 ## How to Run
