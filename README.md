@@ -36,3 +36,7 @@ The system will:
 1. Start in lawn mowing pattern to search for objects
 2. Switch to bounding box following when an object of interest is detected
 3. Return to lawn mowing if object is lost for more than 10 seconds
+
+## Support
+For issues and questions, please open an issue in this repository.
+
